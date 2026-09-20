@@ -50,8 +50,8 @@ Sample .jpg and .bmp image files for testing
 
 4. Navigate to the src folder and run the desired main method:
 
-Run ImageHiding.java to launch the Steganography GUI.
+    - Run ImageHiding.java to launch the Steganography GUI.
 
-Run AESdemo.java to launch the standalone Image Encryption GUI.
+    - Run AESdemo.java to launch the standalone Image Encryption GUI.
 
-Run SimpleHash.java to view the automated hash cryptanalysis in the console.
+    - Run SimpleHash.java to view the automated hash cryptanalysis in the console.
